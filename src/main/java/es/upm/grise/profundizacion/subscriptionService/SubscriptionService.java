@@ -1,4 +1,4 @@
-package es.grise.upm.profundizacion.subscriptionService;
+package es.upm.grise.profundizacion.subscriptionService;
 
 import java.util.Collection;
 
